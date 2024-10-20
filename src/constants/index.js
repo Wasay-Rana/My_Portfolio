@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { ezmd, dreambig, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -137,28 +137,28 @@ export const experiences = [
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
+        title: "Software Trainee",
+        company_name: "Dreambig Semi.",
+        icon: dreambig,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "July 2024 - September 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developing and maintaining low-level software using C, with a focus on kernel programming.",
+            "Designing and implementing DMA and character drivers for efficient hardware communication.",
+            "Collaborating with cross-functional teams, including Driver development and SmartNIC Team, to deliver robust and high-performance solutions.",
+            "Ensuring code quality through rigorous code reviews and providing constructive feedback to peers.",
         ],
     },
     {
         title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
+        company_name: "EZ MD",
+        icon: ezmd,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "June 2024 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Building a comprehensive ecosystem of four projects for insurance and healthcare system management.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
@@ -173,12 +173,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Wasay-Rana',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/wasay786',
     }
 ];
 
